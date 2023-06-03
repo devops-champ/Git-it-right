@@ -112,7 +112,7 @@ ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
 Are you sure you want to continue connecting (yes/no)?
 ````
 
-Enter `yes'
+Enter `yes` to continue.
 
 You get a msg like this:
 ````
