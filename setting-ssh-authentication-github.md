@@ -70,7 +70,7 @@ Identity added: /home/username/.ssh/id_ed25519 (name@gmail.com)
 
 6. Copy your SSH public key to your clipboard:
 ````
-laptop@localhost:/ $ cat ~/.ssh/id_ed25519.pub"
+laptop@localhost:/ $ cat ~/.ssh/id_ed25519.pub
 ````
 
 output:
